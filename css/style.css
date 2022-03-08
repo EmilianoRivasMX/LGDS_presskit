@@ -720,6 +720,7 @@ ol {
   height: 390px;
   position: relative;
   overflow: hidden;
+  border-radius: 3px;
 }
 .team__item:hover .team__item__text {
   bottom: 0;
