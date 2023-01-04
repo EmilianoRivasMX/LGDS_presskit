@@ -71,7 +71,7 @@ h6 {
 }
 
 p {
-  font-size: 16px;
+  font-size: 18px;
   font-family: "Josefin Sans", sans-serif;
   color: #ffffff;
   font-weight: 400;
@@ -372,7 +372,8 @@ ol {
   display: none;
 }
 .header__nav__menu ul li a {
-  font-size: 15px;
+  font-size: 18px;
+  font-weight: bold;
   font-family: "Play", sans-serif;
   color: #ffffff;
   display: block;
